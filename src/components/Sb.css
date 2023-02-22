@@ -1,0 +1,23 @@
+.search {
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 1000px;
+    display: block;
+    height: 30px;
+    background-color: white;
+    color: black;
+}
+
+.checkbox {
+    display: initial;
+    width: 15px;
+}
+
+.checkp {
+    position: relative;
+    bottom: 10px;
+}

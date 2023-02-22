@@ -1,0 +1,13 @@
+table {
+    width: 1000px;
+    
+}
+
+thead {
+    background-color: #4f1313;
+    border-bottom: solid black;
+}
+
+td {
+    border-bottom: solid black;
+}

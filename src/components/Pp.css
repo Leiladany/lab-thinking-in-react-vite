@@ -1,0 +1,13 @@
+.components {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+.components h1 {
+    margin-bottom: 0;
+}
+
+label {
+    color: #4f1313;
+}
